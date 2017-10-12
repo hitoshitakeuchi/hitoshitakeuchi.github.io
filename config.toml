@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hitoshitakeuchi.github.io/"
 languageCode = "ja-JP"
 title = "Hitoshi Takeuchi's Site"
 theme = "hugo-future-imperfect"
