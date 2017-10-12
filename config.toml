@@ -1,4 +1,5 @@
 baseURL = "https://hitoshitakeuchi.github.io/"
+canonifyurls = true
 languageCode = "ja-JP"
 title = "Hitoshi Takeuchi's Site"
 theme = "hugo-future-imperfect"
