@@ -1,9 +1,9 @@
 +++
-author = "Theme author"
+author = ""
 categories = ["WORK"]
 date = "2017-09-28"
-description = "Learn how to create a theme on Hugo"
-featured = "pic01.png"
+description = ""
+featured = "hopehouse.png"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
@@ -13,36 +13,29 @@ type = "post"
 
 ## Introduction
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+"hope house" (日本／２０１１／日本語／カラー／ビデオ／２０分)
+監督・撮影・編集：竹内均　音楽：ウラジーミル・マルティノフ
+制作協力：特定非営利法人　きぼうのいえ、セカンドハーベスト・ジャパン
+東京タワーの鉄塔建設に従事し、現在、建設中である東京スカイツリーが屋上から見えるホスピス「きぼうのいえ」に入居している佐藤安正さん（93）を追った映像作品。
 
-We'll start with creating a new site with a very basic template. Then we'll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.
 
-In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
+http://www.fujihata.jp/end_analog/index.html
 
-Here's an example:
-
-```
-## this is a comment
-$ echo this is a command
-this is a command
-
-## edit the file
-$vi foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
-
-bah and humbug
-:wq
-
-## show it
-$ cat foo.md
-+++
-date = "2014-09-28"
-title = "creating a new theme"
-+++
-
-bah and humbug
-$
-```
+「さよならアナログ放送」　　この日とうとうアナログ放送が終わる。この日を境い目にテレビ画面は砂嵐しか写さないという現実を僕は受け止めることができるのだろうか？この耐え難い現実をひとりで過ごさないために、みんなとテレビが砂嵐になる瞬間を見たいと思った。いわば、アナログ放送のお葬式である。（藤幡正樹）
+--------------------------------------------------------
+場所：KINOHAUS 1階 (映画美学校)
+　　　東京都渋谷区円山町1‐5
+時間：7月24日(日)　夜9時会場、9時半から12時まで
+トーク：出演：藤幡正樹、金平茂紀、吉見俊哉
+作品上映・展示：竹内均、藤幡正樹、小町谷圭
+--------------------------------------------------------
+1）作品展示："Private Room / TV" ：藤幡正樹＋川嶋岳史　カフェ前において8時頃から展示。
+蛍光灯一本がテレビの1ピクセルに対応する大きな超低解像度テレビ。椅子や壁や家そのものが記憶している家族の団欒とテレビの明滅が今ここに再現されるインスタレーション作品。
+2009年、お茶の水文化学院での展示風景。
+--------------------------------------------------------
+2）トーク：10時から12時まで 出演：藤幡正樹、金平茂紀、吉見俊哉
+会場に3〜40台のアナログテレビ受像器を並べ、深夜12時にすべての画面が砂嵐になるのを待ちながらトークを行います。
+-------
+概要：
+　アナログ地上波から地上波デジタルへの交代は誰が決めたのか？完全に送り手側によってのみ組み立てられた論理なのではないのか？技術革新と経済市場の活性化のための論理で進められた今回の世代交代では、受け手の論理はほぼ完全に忘却されている。テレビが育成してきたものは、技術と市場だけではない。家族の関係性からはじまって、社会との新しい接点も用意してきた。歴史的には、テレビにおける公共性のあり方が幾度も議論されてきたが、それらは個人の思想を紡ぐメディアへの形成には至らず、結局は大本営発表と大差のないメディアとしてしか発展してこなかった。つまり、テレビは市民社会の育成にはつながらなかったのだ。このことは、3.11における放送報道のありかたによってみごとに露呈した。結局のところ、テレビは停波以前の段階で、実はとっくの昔に終わっていたのではないのか？
+　現状において、アナログ放送自身が自身の総括を行う兆しの見えない時、ささやかながらここに議論の窓口を作ってみたいと考える。
