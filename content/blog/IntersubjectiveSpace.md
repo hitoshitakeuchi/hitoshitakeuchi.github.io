@@ -12,3 +12,9 @@ type = "post"
 +++
 
 ## Introduction
+
+2016.7.17(日) 10:30〜 ＠アキバ・スクエア
+
+https://instagram.com/p/BHZ31FbDUXj/
+
+http://events.unity3d.jp/vrexpoakiba/list.html

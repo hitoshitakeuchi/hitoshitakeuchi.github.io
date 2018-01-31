@@ -13,7 +13,18 @@ type = "post"
 
 ## Introduction
 
-"Bethel House" (日本／２０１１／日本語／カラー／3DCG／18分)
-監督・撮影・編集：竹内均　
+"Bethel House" ~Talking About My Schizophrenia~ (Video Installation, Japan, 2014)
+
+In 1978, several people with mental disorders, who had been discharged from Red Cross Hospital in Urakawa,
+formed a survivors' group. They moved into an old, abandoned church house and started living together.
+It was named "Bethel House" in 1984, and became the cornerstone of advocacy movement of people with mental disorders.
+
+https://instagram.com/p/BMWnzYkAmFN/
+
+https://youtu.be/UjiF-1v6eQ0
 
 http://www.institutfrancais.jp/tokyo/events-manager/cinema1406070622/
+
+http://www.dommune.com/reserve/2014/0616/
+
+https://www.cinra.net/news/20140530-horspistestokyo
