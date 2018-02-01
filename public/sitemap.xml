@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/deepmountain/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/secretmountain/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/intersubjectivespace/</loc>
+    <lastmod>2017-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/inaudibleconversation/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/conversationpiece/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/bethelhouse/</loc>
+    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/hopehouse/</loc>
+    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/profile/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/categories/work/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
