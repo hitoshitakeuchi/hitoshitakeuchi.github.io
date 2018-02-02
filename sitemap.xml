@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>http://hitoshitakeuchi.com/blog/essay/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hitoshitakeuchi.com/blog/secretmountain/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -55,12 +50,6 @@
   
   <url>
     <loc>http://hitoshitakeuchi.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hitoshitakeuchi.com/categories/essay/</loc>
-    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
