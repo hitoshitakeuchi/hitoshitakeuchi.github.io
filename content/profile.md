@@ -8,4 +8,3 @@ Media Artist
 
 Hitoshi Takeuchi is an media artist from Tokyo.
 The major themes of his work centre around media technology, relationship between space and image.
-Bachelor of Inter Media Art. Tokyo University of the Arts, Japan.

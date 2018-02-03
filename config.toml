@@ -5,7 +5,6 @@ title = "Hitoshi Takeuchi's Site"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
 googleAnalytics = ""
 
 [params]
@@ -43,7 +42,7 @@ googleAnalytics = ""
 # This is optional, but it's suggested to use
 [params.intro]
     header    = "Hitoshi Takeuchi's Site"
-    paragraph = "Media Artist"
+    paragraph = ""
     #about     = ""
 
 # This will also appear on the sidebar.
