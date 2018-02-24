@@ -13,7 +13,7 @@ type = "post"
 
 ## Introduction
 
-"hope house" (日本／２０１１／日本語／カラー／ビデオ／２０分)
+"hope house" (日本／2011／日本語／カラー／映像インスタレーション)
 監督・撮影・編集：竹内均　音楽：ウラジーミル・マルティノフ
 
 http://www.fujihata.jp/end_analog/index.html
@@ -25,3 +25,5 @@ http://www.fujihata.jp/end_analog/index.html
 トーク：出演：藤幡正樹、金平茂紀、吉見俊哉
 
 作品上映・展示：竹内均、藤幡正樹、小町谷圭
+
+http://www.horspistestokyo.com/ja/discovery-urban-landscape/
