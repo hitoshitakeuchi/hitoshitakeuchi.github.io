@@ -15,6 +15,8 @@ type = "post"
 
 “The Secret Mountain”(Installation)
 
+https://www.instagram.com/p/BS0kqyLlJAT/?taken-by=takeuchihitoshi
+
 https://www.instagram.com/p/BWfRE2uH4Zr/?taken-by=takeuchihitoshi
 
 https://www.instagram.com/p/BS0kv_BFiIp/?taken-by=takeuchihitoshi
@@ -25,4 +27,4 @@ Opening hours: 11: 00 - 20: 00
 
 Location: TATARABA / Tataraba
 
-Artist: Shu Isaka, Hitoshi Takeuchi, Teruaki Tsubokura, Wataru Nagano, Issei Yamagata
+Artist: Shu Isaka, Hitoshi Takeuchi, Teruaki Tsubokura, Wataru Nagano
