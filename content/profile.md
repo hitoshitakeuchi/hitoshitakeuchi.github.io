@@ -4,10 +4,8 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist
+Media Artist (focus on VR/AR, Digital Image, Stage Simulation, Documentary film)
 
-Born1985 in Tokyo,Japan.
-Lives and works in Tokyo.
 The major themes of his work centre around media technology, relationship between image and stage.
 Bachelor of Inter Media Art. Tokyo University of the Arts, Japan.
 
