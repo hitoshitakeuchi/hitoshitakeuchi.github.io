@@ -14,7 +14,7 @@ type = "post"
 ## Introduction
 
 "hope house" (日本／2011／日本語／カラー／映像インスタレーション)
-監督・撮影・編集：竹内均　音楽：ウラジーミル・マルティノフ
+制作：竹内均
 
 http://www.fujihata.jp/end_analog/index.html
 
