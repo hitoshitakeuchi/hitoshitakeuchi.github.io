@@ -15,7 +15,7 @@ type = "post"
 
 “The Secret Mountain”(Installation)
 
-https://www.instagram.com/p/BS0kqyLlJAT/?taken-by=takeuchihitoshi
+https://www.instagram.com/p/BgrAju4g75W/?taken-by=takeuchihitoshi
 
 https://www.instagram.com/p/BWfRE2uH4Zr/?taken-by=takeuchihitoshi
 
