@@ -18,9 +18,3 @@ type = "post"
 https://instagram.com/p/BUuUgsxlWZT/
 
 https://www.instagram.com/p/BPunoVoh_vZ/?taken-by=takeuchihitoshi
-
-すべてを球くして去る波展 | The waves that just leaves away and spherizes everything
-
-Artist: Shu Isaka, Hitoshi Takeuchi, Teruaki Tsubokura, Wataru Nagano
-
-https://tataraba-tataraba.jimdo.com/

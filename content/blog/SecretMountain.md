@@ -13,7 +13,7 @@ type = "post"
 
 ## Introduction
 
-“The Secret Mountain”(Installation)
+“The Secret Mountain”
 
 https://www.instagram.com/p/BgrAju4g75W/?taken-by=takeuchihitoshi
 
