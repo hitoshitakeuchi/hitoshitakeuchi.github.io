@@ -17,9 +17,9 @@ type = "post"
 
 https://www.instagram.com/p/BgrAju4g75W/?taken-by=takeuchihitoshi
 
-https://www.instagram.com/p/BWfRE2uH4Zr/?taken-by=takeuchihitoshi
-
 https://www.instagram.com/p/BS0kv_BFiIp/?taken-by=takeuchihitoshi
+
+http://www.tokyoartbeat.com/event/2018/053E
 
 Dates: March 26, Friday, 2018 - Sunday, April 1
 
