@@ -13,14 +13,14 @@ type = "post"
 
 ## Introduction
 
- "Conversation Piece"(Installation)
+"Conversation Piece" (Installation, 2013)
 
- https://youtu.be/RiKExkbwa9o
+https://youtu.be/RiKExkbwa9o
 
- https://instagram.com/p/BMWn_X9gLIN/
+https://instagram.com/p/BMWn_X9gLIN/
 
- https://instagram.com/p/BMWoFnQAvWy/
- 
-2013.7.23 tue. - 26 fri. 10:00 - 20:00
+https://instagram.com/p/BMWoFnQAvWy/
 
-東京芸術大学上野キャンパス  音楽学部校舎 大學会館
+Dates: July 23, 2013 - July 26
+
+Location : Tokyo University of the Arts

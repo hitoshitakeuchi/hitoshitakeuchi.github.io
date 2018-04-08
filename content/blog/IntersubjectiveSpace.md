@@ -12,11 +12,12 @@ type = "post"
 +++
 
 ## Introduction
-"Intersubjective Space"(VR Installation)
+"Intersubjective Space" (VR Installation, 2016)
 
 Unity VR EXPO AKIBA
-主催: ユニティ・テクノロジーズ・ジャパン合同会社
-東京都千代田区外神田4-14-1 秋葉原UDX2F
-2016/07/17 (日)
+
+Dates: July 17, 2016
+
+Location : AKIBA_SQUARE
 
 http://events.unity3d.jp/vrexpoakiba/list.html

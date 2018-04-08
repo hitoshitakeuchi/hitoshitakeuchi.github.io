@@ -13,17 +13,16 @@ type = "post"
 
 ## Introduction
 
-"hope house" (日本／2011／日本語／カラー／映像インスタレーション)
-制作：竹内均
-
-http://www.fujihata.jp/end_analog/index.html
-
-場所：KINOHAUS 1階 (映画美学校)
-
-時間：7月24日(日)　夜9時会場、9時半から12時まで
-
-トーク：出演：藤幡正樹、金平茂紀、吉見俊哉
-
-作品上映・展示：竹内均、藤幡正樹、小町谷圭
+"hope house" (Video Installation, 2011)
 
 http://www.horspistestokyo.com/ja/discovery-urban-landscape/
+
+Ceremony for the end of analog Television broadcasting in Japan.
+Over 100 people gathered to see the last station-breaks and sand-noises on TV set at the end of 24th of July.
+http://www.fujihata.jp/end_analog/index.html
+
+Dates: July 24, 2012
+
+Location : KINOHAUS
+
+Artist：Hitoshi Takeuchi, Masaki Fujihata, Kei Komachiya

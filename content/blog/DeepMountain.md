@@ -13,7 +13,7 @@ type = "post"
 
 ## Introduction
 
-“The Deep Mountain”(VR Installation)
+“The Deep Mountain” (VR Installation, 2018)
 
 https://instagram.com/p/BUuUgsxlWZT/
 

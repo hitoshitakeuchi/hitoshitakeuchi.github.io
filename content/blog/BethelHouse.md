@@ -13,7 +13,7 @@ type = "post"
 
 ## Introduction
 
-"Bethel House" ~Talking About My Schizophrenia~ (Video Installation, Japan, 2014)
+"Bethel House" (Video Installation, 2014)
 
 In 1978, several people with mental disorders, who had been discharged from Red Cross Hospital in Urakawa,
 formed a survivors' group. They moved into an old, abandoned church house and started living together.

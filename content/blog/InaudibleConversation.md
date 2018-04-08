@@ -13,15 +13,14 @@ type = "post"
 
 ## Introduction
 
-"Inaudible Conversation"(Installation)
+"Inaudible Conversation" (Installation, 2014)
 
 https://youtu.be/NRwabquDoxo
 
 https://instagram.com/p/BMY847rAad6/
 
-藝大アーツ・スペシャル 2014
+GEIDAI ARTS SPECIAL 2014
 
-障がいとアーツ
+Dates: July 6, 2014 - July 7
 
-2014年12月6日（土）～7日（日）
-《会場》東京藝術大学奏楽堂（大学構内）
+Location : Sogakudo Concert Hall
