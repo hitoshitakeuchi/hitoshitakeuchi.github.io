@@ -18,6 +18,6 @@ Unity VR EXPO AKIBA
 
 Dates: July 17, 2016
 
-Location : AKIBA_SQUARE
+Location: AKIBA_SQUARE
 
 http://events.unity3d.jp/vrexpoakiba/list.html

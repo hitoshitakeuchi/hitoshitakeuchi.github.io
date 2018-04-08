@@ -23,6 +23,6 @@ http://www.fujihata.jp/end_analog/index.html
 
 Dates: July 24, 2012
 
-Location : KINOHAUS
+Location: KINOHAUS
 
 Artist：Hitoshi Takeuchi, Masaki Fujihata, Kei Komachiya

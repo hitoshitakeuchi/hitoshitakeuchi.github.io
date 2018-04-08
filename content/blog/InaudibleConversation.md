@@ -23,4 +23,4 @@ GEIDAI ARTS SPECIAL 2014
 
 Dates: July 6, 2014 - July 7
 
-Location : Sogakudo Concert Hall
+Location: Sogakudo Concert Hall

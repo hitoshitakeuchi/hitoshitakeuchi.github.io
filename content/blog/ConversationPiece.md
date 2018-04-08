@@ -23,4 +23,4 @@ https://instagram.com/p/BMWoFnQAvWy/
 
 Dates: July 23, 2013 - July 26
 
-Location : Tokyo University of the Arts
+Location: Tokyo University of the Arts

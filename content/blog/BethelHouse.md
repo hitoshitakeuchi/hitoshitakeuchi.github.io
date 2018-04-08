@@ -28,3 +28,7 @@ http://www.institutfrancais.jp/tokyo/events-manager/cinema1406070622/
 http://www.dommune.com/reserve/2014/0616/
 
 https://www.cinra.net/news/20140530-horspistestokyo
+
+Dates: June 7, 2014 - June 22
+
+Location: Institut français du Japon - Tokyo
