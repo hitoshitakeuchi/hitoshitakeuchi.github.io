@@ -17,9 +17,10 @@ type = "post"
 
 http://www.horspistestokyo.com/ja/discovery-urban-landscape/
 
+http://www.fujihata.jp/end_analog/index.html
+
 Ceremony for the end of analog Television broadcasting in Japan.
 Over 100 people gathered to see the last station-breaks and sand-noises on TV set at the end of 24th of July.
-http://www.fujihata.jp/end_analog/index.html
 
 Dates: July 24, 2012
 
