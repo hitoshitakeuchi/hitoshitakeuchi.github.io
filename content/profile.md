@@ -6,6 +6,10 @@ featured = ""
 
 Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Documentary film)
 
+My primary interests are exploring the interface between the real and virtual boundaries for images and stage.
+From ambivalent position of the uncertainty at the level of information and the finite body in a physical situation,
+I tried to give real and homogeneous evidence to both virtual and real through my works.
+
 https://www.instagram.com/takeuchihitoshi/
 
 https://twitter.com/htake_
