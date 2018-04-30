@@ -24,7 +24,7 @@ Bachelor of Inter Media Art. Tokyo University of the Arts, Japan.
 
 ‘16 ・ごはんとアート vol.2, FabCafe|東京
 
-‘14 ・HORS PISTES TOKYO, アンスティチュフランセ東京|東京
+‘14 ・ポンピドゥーセンター公式映像フェスティバル オールピスト東京, アンスティチュフランセ東京|東京
 
 ‘14 ・マテリアライジング展Ⅱ, 東京藝術大学陳列館|東京
 
