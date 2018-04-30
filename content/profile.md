@@ -4,14 +4,11 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist (focus on VR/AR, Digital Image, Stage Simulation, Documentary film)
+Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Documentary film)
 
 https://www.instagram.com/takeuchihitoshi/
 
 https://twitter.com/htake_
-
-The main theme is to explore the boundary between real and virtual in the relationship between image and stage.
-Bachelor of Inter Media Art. Tokyo University of the Arts, Japan.
 
 
 [Exhibition|Screening]
