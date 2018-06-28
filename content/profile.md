@@ -4,7 +4,7 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Documentary film)
+Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Drawing)
 
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 
