@@ -22,8 +22,6 @@ https://twitter.com/htake_
 
 ‘18 ・1940's フジタ・トリビュート, 東京藝術大学大学美術館・陳列館|東京　※美術：小沢剛　映像：竹内均
 
-‘18 ・JapanVR Fest, 銀座フェニックスプラザ|東京　
-
 ‘18 ・すべてを球くして去る波, TATARABA Gallery|東京
 
 ‘16 ・Unity VR EXPO AKIBA, AKIBA_SQUARE|東京
