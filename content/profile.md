@@ -7,11 +7,9 @@ featured = ""
 Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Drawing)
 
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
-
-My primary interests are exploring the interface between the real and virtual boundaries for images and stage.
+My primary interests are exploring the interface between the landscape and the picturesque.
 From ambivalent position of the uncertainty at the level of information and the finite body in a physical situation,
-I try to give real and homogeneous evidence to both virtual and real through my works.
-
+I try to give real and homogeneous evidence to both real and virtual through my works.
 
 https://www.instagram.com/takeuchihitoshi/
 
@@ -19,6 +17,8 @@ https://twitter.com/htake_
 
 
 [Exhibition|Screening]
+
+‘18 ・Nomadic Grids、mumei gallery|東京
 
 ‘18 ・1940's フジタ・トリビュート, 東京藝術大学大学美術館・陳列館|東京　※美術：小沢剛　映像：竹内均
 
