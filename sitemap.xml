@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>http://hitoshitakeuchi.com/blog/melancholymountain/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hitoshitakeuchi.com/blog/secretmountain/</loc>
+    <lastmod>2017-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/untitled/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -62,14 +72,6 @@
   <url>
     <loc>http://hitoshitakeuchi.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hitoshitakeuchi.com/blog/melancholymountain/</loc>
-  </url>
-  
-  <url>
-    <loc>http://hitoshitakeuchi.com/blog/untitled/</loc>
   </url>
   
   <url>
