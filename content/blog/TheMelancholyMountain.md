@@ -19,6 +19,6 @@ https://www.instagram.com/p/Bm0S7LwlJ5E/?taken-by=takeuchihitoshi
 
 https://www.facebook.com/mmuummeeii/
 
-Dates: September 28, 2018 - October 4
+Dates: September 28, 2018 - October 1
 
 Location: mumei
