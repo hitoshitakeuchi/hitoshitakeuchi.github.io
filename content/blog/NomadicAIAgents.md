@@ -15,6 +15,8 @@ type = "post"
 
 “Nomadic AI Agents” (Installation, 2018)
 
+https://www.instagram.com/p/BoQREZyFLUI/?taken-by=takeuchihitoshi
+
 https://www.instagram.com/p/Bms0mQUlsrV/?taken-by=takeuchihitoshi
 
 https://www.youtube.com/watch?v=eL2eWBe1Hnw

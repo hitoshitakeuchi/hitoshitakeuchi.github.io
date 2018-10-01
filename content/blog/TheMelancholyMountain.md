@@ -15,7 +15,9 @@ type = "post"
 
 “The Melancholy Mountain” (Video Installation, 2018)
 
-https://www.instagram.com/p/Bm0S7LwlJ5E/?taken-by=takeuchihitoshi
+https://www.instagram.com/p/BoQP4r-F5wj/?taken-by=takeuchihitoshi
+
+https://www.instagram.com/p/BoQSD7Alsp-/?taken-by=takeuchihitoshi
 
 https://www.facebook.com/mmuummeeii/
 
