@@ -18,7 +18,7 @@ https://twitter.com/htake_
 
 [Exhibition|Screening]
 
-‘18 ・Nomadic Grid, mumei|東京
+‘18 ・Nomadic Grids, mumei|東京
 
 ‘18 ・1940's フジタ・トリビュート, 東京藝術大学大学美術館・陳列館|東京　※美術：小沢剛　映像：竹内均
 
