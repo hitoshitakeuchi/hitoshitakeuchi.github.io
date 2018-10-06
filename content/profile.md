@@ -4,12 +4,11 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist (focus on Digital Image, VR/AR, Stage Simulation, Drawing)
+Media Artist (focus on Digital Image, Installation, VR/AR)
 
-Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 My primary interests are exploring the interface between the landscape and the picturesque.
-From ambivalent position of the uncertainty at the level of information and the finite body in a physical situation,
-I try to give real and homogeneous evidence to both real and virtual through my works.
+I try to give reality and homogeneous evidence to both real and virtual through my works.
+Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 
 https://www.instagram.com/takeuchihitoshi/
 
