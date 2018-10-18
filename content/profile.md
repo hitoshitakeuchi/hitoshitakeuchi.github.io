@@ -6,9 +6,9 @@ featured = ""
 
 Media Artist (focus on Digital Image, Installation, VR/AR)
 
+Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 My primary interests are exploring the interface between the landscape and the picturesque.
 I try to give reality and homogeneous evidence to both real and virtual through my works.
-Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 
 https://www.instagram.com/takeuchihitoshi/
 
