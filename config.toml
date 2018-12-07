@@ -9,7 +9,7 @@ googleAnalytics = ""
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "aa"
+    description          = "Hitoshi Takeuchi"
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Hitoshi Takeuchi's Site"
     # Social media buttons that appear on the sidebar

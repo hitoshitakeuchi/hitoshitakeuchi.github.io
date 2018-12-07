@@ -4,7 +4,7 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist (focus on Digital Image, Installation, VR/AR)
+Media Artist (focus on Digital Image, Installation, VR/AR, Drawing)
 
 My primary interests are exploring the interface between real and virtual.
 I try to give reality to both real and virtual through my works.
