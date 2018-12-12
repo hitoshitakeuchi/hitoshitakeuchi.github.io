@@ -10,6 +10,11 @@ My primary interests are exploring the interface between real and virtual.
 I try to give reality to both real and virtual through my works.
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
 
+
+[Contact]
+
+htakeuchi.info@gmail.com
+
 https://www.instagram.com/takeuchihitoshi/
 
 https://twitter.com/htake_
