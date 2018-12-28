@@ -6,10 +6,10 @@ featured = ""
 
 Media Artist (focus on Digital Image, Installation, VR/AR, Drawing)
 
-My primary interests are exploring the interface between real and virtual.
-I try to give reality to both real and virtual through my works.
+Born in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts, Japan.
 I have a deep interest in human perception and media aesthetics theory.
-Born in Tokyo, Japan. Bachelor of Intermedia Art. Tokyo University of the Arts, Japan.
+My primary interests are exploring the interface between real and virtual.
+I try to give equivalent reality to both real and virtual through my works.
 
 
 [Contact]
