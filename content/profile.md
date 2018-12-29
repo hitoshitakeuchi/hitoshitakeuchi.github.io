@@ -25,7 +25,7 @@ https://twitter.com/htake_
 
 ‘19 ・富士山展2.0 -ザ・ジャイアントリープ-
 
-‘18 ・AI Art Gallery, NeurIPS Workshop on Machine Learning for Creativity and Design 2018
+‘18 ・AI Art Gallery, NeurIPS Workshop on Machine Learning for Creativity and Design 2018|Montreal, Canada
 
 ‘18 ・Nomadic Grids, mumei|東京
 
