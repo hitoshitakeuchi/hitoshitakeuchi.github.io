@@ -15,6 +15,9 @@ type = "post"
 
 "Inaudible Conversation" (Installation, 2014)
 
+The word is displayed in real time on the transparent screen in front of you.
+It is a work that tried to visualize the conversation spatially.
+
 https://youtu.be/NRwabquDoxo
 
 https://instagram.com/p/BMY847rAad6/
