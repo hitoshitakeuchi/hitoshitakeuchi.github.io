@@ -23,6 +23,8 @@ https://twitter.com/htake_
 
 [Exhibition|Screening]
 
+‘19 ・Eureka, GALLERY WATER|東京
+
 ‘19 ・富士山展2.0 -ザ・ジャイアントリープ-
 
 ‘18 ・AI Art Gallery, NeurIPS Workshop on Machine Learning for Creativity and Design 2018|Montreal, Canada
