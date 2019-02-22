@@ -116,5 +116,15 @@ Location: KINOHAUS
 Artist：Hitoshi Takeuchi, Masaki Fujihata, Kei Komachiya</description>
     </item>
     
+    <item>
+      <title>GAN Paintings</title>
+      <link>http://hitoshitakeuchi.com/blog/ganpaintings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hitoshitakeuchi.com/blog/ganpaintings/</guid>
+      <description>Introduction “GAN Paintings” (Oil on canvas, 2019)
+I&amp;rsquo;m interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era. I discover new motif that I have never seen. And latent spaces seem to be a good place to go on a search. Theoretically latent spaces is only a collection of diverse vector space models. But In the process of interpolation in latent spaces, there is a poetic and positive image with negative technical problems.</description>
+    </item>
+    
   </channel>
 </rss>
