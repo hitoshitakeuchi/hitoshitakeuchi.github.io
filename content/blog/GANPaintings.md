@@ -15,10 +15,9 @@ type = "post"
 
 “GAN Paintings” (Oil on canvas, 2019)
 
-I'm interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era.
-I discover new motif that I have never seen. And latent spaces seem to be a good place to go on a search.
-Theoretically latent spaces is only a collection of diverse vector space models.
-But In the process of interpolation in latent spaces, there is a poetic and positive image with negative technical problems.
+I’m interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era. I discover new motif that I have never seen. And latent spaces seem to be a good place to go on a search. Theoretically latent spaces is only a collection of diverse vector space models, but in the process of interpolation in latent spaces, there is a poetic image with technical problems.I accept positively the existence of persons and things expressed in the image.
+
+https://www.instagram.com/p/BufP_5qA5lw/
 
 https://bijutsutecho.com/magazine/news/exhibition/19313
 
