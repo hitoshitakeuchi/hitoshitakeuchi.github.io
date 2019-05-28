@@ -57,7 +57,7 @@ https://twitter.com/htake_
 
 ‘12 ・HUMONIUM vol1, 下高井戸シネマ|東京
 
-‘11 ・さよならアナログ放送, KINOHAUS|東京　※展示：竹内均、藤幡正樹、小町谷圭
+‘11 ・さよならアナログ放送, KINOHAUS|東京
 
 
 [Awards]
