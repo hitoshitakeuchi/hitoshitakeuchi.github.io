@@ -8,8 +8,6 @@ Media Artist (focus on Digital Image, Installation, VR/AR, Drawing)
 
 Born in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts, Japan.
 I have a deep interest in human perception and media aesthetics theory.
-My primary interests are exploring the interface between real and virtual.
-I try to give equivalent reality to both real and virtual through my works.
 
 
 [Contact]
@@ -20,6 +18,7 @@ https://www.instagram.com/takeuchihitoshi/
 
 https://twitter.com/htake_
 
+https://note.mu/hitoshitakeuchi
 
 [Exhibition|Screening]
 
