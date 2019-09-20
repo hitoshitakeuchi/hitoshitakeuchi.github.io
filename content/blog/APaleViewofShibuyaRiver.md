@@ -17,10 +17,6 @@ type = "post"
 
 https://bijutsutecho.com/magazine/news/exhibition/20373
 
-https://www.instagram.com/p/BzpKbaPA7iw/
-
-https://www.instagram.com/p/ByRsWS8gyVY/
-
 Dates: September 20, 2019 - September 29
 
 Location: BLOCK HOUSE
