@@ -75,10 +75,6 @@ googleAnalytics = ""
     #identifier = "fa fa-newspaper-o"
     weight = 2
 
-[[menu.main]]
-    name = "Categories"
-    url = "/categories"
-    weight = 3
 
 # Insert your username and the icon will apear on the page as long as
 # socialAppearAtTop or socialAppearAtBottom is set to true in the params area
