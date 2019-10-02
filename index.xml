@@ -6,50 +6,10 @@
     <description>Recent content on Hitoshi Takeuchi&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hitoshitakeuchi.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>GAN Paintings</title>
-      <link>http://hitoshitakeuchi.com/blog/ganpaintings/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/ganpaintings/</guid>
-      <description>Introduction “GAN Paintings” (Oil on canvas, 2019)
-I’m interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era. I discover new motif that I have never seen. And latent spaces seem to be a good place to go on a search. Theoretically latent spaces is only a collection of diverse vector space models, but in the process of interpolation in latent spaces, there is a poetic image with technical problems.</description>
-    </item>
-    
-    <item>
-      <title>Nomadic AI Agents</title>
-      <link>http://hitoshitakeuchi.com/blog/nomadicaiagents/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/nomadicaiagents/</guid>
-      <description>Introduction “Nomadic AI Agents” (Installation, 2018)
-Nomadic AI Agents are practically useless AI agents. The framework uses ML-Agents, a machine learning environment of Unity which is a game engine. Through the learning Python script, the library TensorFlow for machine learning and the executable file created by Unity are linked to simulate, learn the action of ball agent entering into the box while using obstacles in the scene, it will start acting as if its will lived.</description>
-    </item>
-    
-    <item>
-      <title>The Melancholy Mountain</title>
-      <link>http://hitoshitakeuchi.com/blog/themelancholymountain/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/themelancholymountain/</guid>
-      <description>Introduction “The Melancholy Mountain” (Video Installation, 2018)
-The Melancholy Mountain is a multi display work by real time rendering. This procedure mountain is drawn with a wireframe. This is not a landscape but gamescape. We are only looking at the wireframe mesh deformed by the algorithm. The landscape of a digital image today may be the landscape of simulated virtual images by code no longer what we think is landscape.</description>
-    </item>
-    
-    <item>
-      <title>The Secret Mountain</title>
-      <link>http://hitoshitakeuchi.com/blog/thesecretmountain/</link>
-      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/thesecretmountain/</guid>
-      <description>Introduction “The Secret Mountain” (Video Installation, 2018)
-The Secret Mountain is a multi display work and also VR work. This typical mountain object is indeed an unwavering entity capable of reviewing poetry and is a poet with a unique personality. The viewer looks at the landscape that changes in real time along with poetry and at the same time is involved with objects containing various contexts, meanings, images that are rolling in chaos while wandering through the terrain world, We will read the environment and algorithm of.</description>
-    </item>
     
     <item>
       <title>Profile</title>
@@ -73,78 +33,20 @@ https://note.mu/hitoshitakeuchi
     </item>
     
     <item>
-      <title>Intersubjective Space</title>
-      <link>http://hitoshitakeuchi.com/blog/intersubjectivespace/</link>
-      <pubDate>Mon, 10 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/intersubjectivespace/</guid>
-      <description>Introduction &amp;ldquo;Intersubjective Space&amp;rdquo; (VR Installation, 2016)
-The main concept of this work about asymmetry of media and space information. Activate the reciprocating movement of imagining the space from the image and memorizing the experience of the space as an image.
-http://events.unity3d.jp/vrexpoakiba/list.html
-Unity VR EXPO AKIBA
-Dates: July 17, 2016
-Location: AKIBA_SQUARE</description>
-    </item>
-    
-    <item>
-      <title>Inaudible Conversation</title>
-      <link>http://hitoshitakeuchi.com/blog/inaudibleconversation/</link>
-      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/inaudibleconversation/</guid>
-      <description>Introduction &amp;ldquo;Inaudible Conversation&amp;rdquo; (Installation, 2014)
-The word is displayed in real time on the transparent screen in front of you. It is a work that tried to visualize the conversation spatially.
-https://youtu.be/NRwabquDoxo
-https://instagram.com/p/BMY847rAad6/
-GEIDAI ARTS SPECIAL 2014
-Dates: July 6, 2014 - July 7
-Location: Sogakudo Concert Hall</description>
-    </item>
-    
-    <item>
-      <title>Conversation Piece</title>
-      <link>http://hitoshitakeuchi.com/blog/conversationpiece/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/conversationpiece/</guid>
-      <description>Introduction &amp;ldquo;Conversation Piece&amp;rdquo; (Installation, 2013)
-It is a work that projected pieces of landscape on a spatially arranged acrylic board. From a certain point of view you can appreciate it as a painting.
-https://youtu.be/RiKExkbwa9o
-https://www.instagram.com/p/BlUsBxAjBfl/?taken-by=takeuchihitoshi
-https://instagram.com/p/BMWn_X9gLIN/
-Dates: July 23, 2013 - July 26
-Location: Tokyo University of the Arts</description>
-    </item>
-    
-    <item>
-      <title>Bethel House</title>
-      <link>http://hitoshitakeuchi.com/blog/bethelhouse/</link>
-      <pubDate>Sat, 28 Sep 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/bethelhouse/</guid>
-      <description>Introduction &amp;ldquo;Bethel House&amp;rdquo; (Video Installation, 2013)
-In 1978, several people with mental disorders, who had been discharged from Red Cross Hospital in Urakawa, formed a survivors&amp;rsquo; group. They moved into an old, abandoned church house and started living together. It was named &amp;ldquo;Bethel House&amp;rdquo; in 1984, and became the cornerstone of advocacy movement of people with mental disorders.
-https://instagram.com/p/BMWnzYkAmFN/
-https://youtu.be/UjiF-1v6eQ0
-http://www.institutfrancais.jp/tokyo/events-manager/cinema1406070622/
-http://www.dommune.com/reserve/2014/0616/
-https://www.cinra.net/news/20140530-horspistestokyo
-Dates: June 7, 2014 - June 22</description>
-    </item>
-    
-    <item>
-      <title>hope house</title>
-      <link>http://hitoshitakeuchi.com/blog/hopehouse/</link>
+      <title>WORKS</title>
+      <link>http://hitoshitakeuchi.com/blog/works/</link>
       <pubDate>Wed, 28 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://hitoshitakeuchi.com/blog/hopehouse/</guid>
+      <guid>http://hitoshitakeuchi.com/blog/works/</guid>
       <description>Introduction &amp;ldquo;hope house&amp;rdquo; (Video Installation, 2011)
 Ceremony for the end of analog Television broadcasting in Japan.
 http://www.horspistestokyo.com/ja/discovery-urban-landscape/
 http://www.fujihata.jp/end_analog/index.html
 Dates: July 24, 2012
 Location: KINOHAUS
-Artist：Hitoshi Takeuchi, Masaki Fujihata, Kei Komachiya</description>
+Artist：Hitoshi Takeuchi, Masaki Fujihata, Kei Komachiya
+&amp;ldquo;Bethel House&amp;rdquo; (Video Installation, 2013)
+In 1978, several people with mental disorders, who had been discharged from Red Cross Hospital in Urakawa, formed a survivors&amp;rsquo; group. They moved into an old, abandoned church house and started living together. It was named &amp;ldquo;Bethel House&amp;rdquo; in 1984, and became the cornerstone of advocacy movement of people with mental disorders.</description>
     </item>
     
   </channel>
