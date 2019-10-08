@@ -4,7 +4,7 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist (focus on Digital Image, Installation, VR/AR, Drawing)
+Media Artist
 
 Born in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts, Japan.
 I have a deep interest in human perception and media aesthetics theory.
@@ -40,19 +40,17 @@ https://note.mu/hitoshitakeuchi
 
 ‘16 ・ごはんとアート vol.2, FabCafe|東京
 
-‘14 ・ポンピドゥーセンター公式映像フェスティバル オールピスト東京, アンスティチュフランセ東京|東京
-
 ‘14 ・マテリアライジング展Ⅱ, 東京藝術大学大学美術館・陳列館|東京
 
 ‘14 ・藝大アーツ･スペシャル, 東京藝術大学奏楽堂|東京
 
+‘14 ・｢映像はもう始まったか？ / L'image est déjà commençée?｣, DOMMUNE|東京
+
+‘14 ・ポンピドゥーセンター公式映像フェスティバル オールピスト東京, アンスティチュフランセ東京|東京
+
 ‘13 ・HUMONIUM vo2, オーディトリウム渋谷|東京
 
-‘13 ・トーキョー・エクスペリメンタル・フェスティバルVol.8, TWS|東京　※音楽：安野太郎　映像：竹内均
-
 ‘13 ・小沢剛 高木正勝 — アフリカを行く, 横浜創造都市センター|横浜　※美術：小沢剛　映像：竹内均
-
-‘13 ・瀬戸内国際芸術祭「昭和40年会男木學校」, 男木島|香川　※美術：小沢剛　映像：竹内均
 
 ‘12 ・HUMONIUM vol1, 下高井戸シネマ|東京
 
