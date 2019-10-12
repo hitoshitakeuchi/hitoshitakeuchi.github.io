@@ -7,7 +7,7 @@ featured = ""
 Media Artist
 
 Born in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts, Japan.
-I have a deep interest in human perception and media aesthetics theory.
+I have a deep interest in human perception and media aesthetics theory. By using digital and analog media, making image, video, installation, and painting.
 
 
 [Contact]
