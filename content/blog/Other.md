@@ -1,6 +1,6 @@
 +++
 author = ""
-categories = ["OTHER"]
+categories = ["WORKS"]
 date = "2019-01-11"
 description = ""
 featured = ""
