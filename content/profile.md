@@ -8,10 +8,9 @@ Media Artist
 
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts.
 I’m mostly interested in human perception and media aesthetics theory.
+By making media and computational art works, exploring new realism.
 In addition, I’m researching the relationship between landscape and new media.
 And I’m inspired by our capacity to dig deeper and learn more about the poetry of landscape.
-By making media and computational art works, exploring new realism.
-
 
 [Contact]
 
@@ -29,7 +28,7 @@ https://note.mu/hitoshitakeuchi
 
 ‘19 ・Eureka, GALLERY WATER|東京
 
-‘19 ・富士山展2.0 -ザ・ジャイアントリープ-
+‘19 ・富士山展2.0 -ザ・ジャイアントリープ- SNARK/三井住友銀行アースガーデン/福島ミューラルヴィジョン
 
 ‘18 ・AI Art Gallery, NeurIPS Workshop on Machine Learning for Creativity and Design 2018|Montreal, Canada
 
