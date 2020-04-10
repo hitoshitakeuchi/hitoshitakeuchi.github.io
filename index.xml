@@ -6,10 +6,21 @@
     <description>Recent content on Hitoshi Takeuchi&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://hitoshitakeuchi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OTHER</title>
+      <link>http://hitoshitakeuchi.com/blog/other/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://hitoshitakeuchi.com/blog/other/</guid>
+      <description>Introduction ＜ART RESEARCH ONLINE (Research Project, 2020)＞
+With the expansion of the new coronavirus infection (COVID-19), exhibitions and other events have been cancelled or postponed, and I am planning an online research project that relates to art in a new way. It&amp;rsquo;s a project where people from various fields can introduce their papers, read books, and present their works.
+artresearchonline.com</description>
+    </item>
     
     <item>
       <title>WORKS</title>
@@ -26,15 +37,6 @@ Dates: September 20, 2019 - September 29
 Location: BLOCK HOUSE
 ＜“GAN Paintings” (Oil on canvas, 2019)＞
 I’m interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era.</description>
-    </item>
-    
-    <item>
-      <title>OTHER</title>
-      <link>http://hitoshitakeuchi.com/blog/other/</link>
-      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://hitoshitakeuchi.com/blog/other/</guid>
-      <description> Introduction </description>
     </item>
     
     <item>
