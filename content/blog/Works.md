@@ -19,7 +19,7 @@ With the expansion of the new coronavirus infection (COVID-19), exhibitions and 
 and I am planning an online research project that relates to art for personal space.
 It's a project where people from various fields can introduce their papers, read books, and present their works.
 
-http://artresearchonline.com
+https://www.artresearchonline.com
 
 
 
