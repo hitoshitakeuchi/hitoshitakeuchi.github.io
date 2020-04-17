@@ -139,8 +139,6 @@ It is a work that tried to visualize the conversation spatially.
 
 https://instagram.com/p/BMY847rAad6/
 
-https://youtu.be/NRwabquDoxo
-
 GEIDAI ARTS SPECIAL 2014
 
 Dates: July 6, 2014 - July 7
@@ -178,8 +176,6 @@ https://www.cinra.net/news/20140530-horspistestokyo
 
 https://instagram.com/p/BMWnzYkAmFN/
 
-https://youtu.be/UjiF-1v6eQ0
-
 Dates: June 7, 2014 - June 22
 
 Location: Institut français du Japon - Tokyo
@@ -189,6 +185,8 @@ Location: Institut français du Japon - Tokyo
 ＜"hope house" (Video Installation, 2011)＞
 
 Ceremony for the end of analog Television broadcasting in Japan.
+
+https://vimeo.com/408766189
 
 http://www.fujihata.jp/end_analog/index.html
 
