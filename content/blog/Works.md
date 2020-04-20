@@ -190,8 +190,6 @@ https://vimeo.com/408766189
 
 http://www.fujihata.jp/end_analog/index.html
 
-http://www.horspistestokyo.com/ja/discovery-urban-landscape/
-
 Dates: July 24, 2012
 
 Location: KINOHAUS
