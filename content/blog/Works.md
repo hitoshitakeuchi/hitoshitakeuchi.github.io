@@ -1,7 +1,7 @@
 +++
 author = ""
 categories = ["WORKS"]
-date = "2019-03-11"
+date = "2020-03-11"
 description = ""
 featured = ""
 featuredalt = ""
@@ -25,14 +25,8 @@ https://www.artresearchonline.com
 
 ＜“A Pale View of Shibuya River” (Installation, 2019)＞
 
-Landscape of the past where Shibuya River flowed under Cat Street.
+It is a landscape of the past where Shibuya River flowed under Cat Street.
 Before the Tokyo Olympics 1964, the river around there is forced to flow underground using a conduit and no water flow can be seen on the ground.
-
-https://bijutsutecho.com/magazine/news/exhibition/20373
-
-http://blockhouse.jp/index.php?itemid=240&fbclid=IwAR2madKkB0BrNPQILn9StrboSkuwtTzJvlHIatxmxUUA191EbKRgklyNFvA
-
-https://www.instagram.com/p/B3JAUKiATmj/
 
 Dates: September 20, 2019 - September 29
 
@@ -43,12 +37,6 @@ Location: BLOCK HOUSE
 ＜“GAN Paintings” (Oil on canvas, 2019)＞
 
 I’m interested in how GAN(Generative Adversarial Network) can affect the transparency of photograph and the opacity of painting in the post-truth era. I discover new motif that I have never seen. And latent spaces seem to be a good place to go on a search. Theoretically latent spaces is only a collection of diverse vector space models, but in the process of interpolation in latent spaces, there is a poetic image with technical problems.I accept positively the existence of persons and things expressed in the image.
-
-https://bijutsutecho.com/magazine/news/exhibition/19313
-
-https://www.gallerywater.com/exhibition-eureka
-
-https://www.instagram.com/p/BvYpcLlgpL-/
 
 Dates: March 2, 2019 - March 10
 
@@ -61,12 +49,6 @@ Location: GALLERY WATER
 The Melancholy Mountain is a multi display work by real time rendering. This procedure mountain is drawn with a wireframe. This is not a landscape but gamescape.
 We are only looking at the wireframe mesh deformed by the algorithm.
 The landscape of a digital image today may be the landscape of simulated virtual images by code no longer what we think is landscape.But it may be one truth.
-
-https://fujisanten.com/
-
-https://www.instagram.com/p/BsziteYADyg/
-
-https://www.instagram.com/p/Bsed18jgcgO/
 
 Dates: January 19, 2019 - January 20
 
@@ -82,12 +64,6 @@ Through the learning Python script, the library TensorFlow for machine learning 
 learn the action of ball agent entering into the box while using obstacles in the scene,
 it will start acting as if its will lived.
 In a sense, being able to learn by machine learning is unexpectedly.
-
-https://www.facebook.com/mmuummeeii/
-
-https://www.instagram.com/p/BoQREZyFLUI/?taken-by=takeuchihitoshi
-
-https://www.instagram.com/p/Bms0mQUlsrV/?taken-by=takeuchihitoshi
 
 Dates: September 28, 2018 - October 1
 
@@ -105,13 +81,7 @@ Moreover, by trying as an exhibition, by connecting the media that can make the 
 the interface of the environment including various others who could not be seen by VR works alone will emerge.
 I believe that the mountain has a certain personality.
 
-http://www.tokyoartbeat.com/event/2018/053E
-
-https://www.instagram.com/p/BhK-skrATCg/?taken-by=takeuchihitoshi
-
 Dates: March 26, Friday, 2018 - Sunday, April 1
-
-Opening hours: 11: 00 - 20: 00
 
 Location: TATARABA Gallery
 
@@ -122,10 +92,6 @@ Location: TATARABA Gallery
 The main concept of this work about asymmetry of media and space information.
 Activate the reciprocating movement of imagining the space from the image and memorizing the experience of the space as an image.
 
-http://events.unity3d.jp/vrexpoakiba/list.html
-
-Unity VR EXPO AKIBA
-
 Dates: July 17, 2016
 
 Location: AKIBA_SQUARE
@@ -134,12 +100,8 @@ Location: AKIBA_SQUARE
 
 ＜"Inaudible Conversation" (Installation, 2014)＞
 
-The word is displayed in real time on the transparent screen in front of you.
 It is a work that tried to visualize the conversation spatially.
-
-https://instagram.com/p/BMY847rAad6/
-
-GEIDAI ARTS SPECIAL 2014
+The word is displayed in real-time on the transparent screen.
 
 Dates: July 6, 2014 - July 7
 
@@ -152,10 +114,6 @@ Location: Sogakudo Concert
 It is a work that projected pieces of landscape on a spatially arranged acrylic board.
 From a certain point of view you can appreciate it as a painting.
 
-https://www.instagram.com/p/BlUsBxAjBfl/?taken-by=takeuchihitoshi
-
-https://instagram.com/p/BMWn_X9gLIN/
-
 Dates: July 23, 2013 - July 26
 
 Location: Tokyo University of the Arts
@@ -166,29 +124,19 @@ Location: Tokyo University of the Arts
 
 In 1978, several people with mental disorders, who had been discharged from Red Cross Hospital in Urakawa,
 formed a survivors' group. They moved into an old, abandoned church house and started living together.
-It was named "Bethel House" in 1984, and became the cornerstone of advocacy movement of people with mental disorders.
-
-http://www.institutfrancais.jp/tokyo/events-manager/cinema1406070622/
-
-http://www.dommune.com/reserve/2014/0616/
-
-https://www.cinra.net/news/20140530-horspistestokyo
-
-https://instagram.com/p/BMWnzYkAmFN/
+It was named Bethel House in 1984, and became the cornerstone of advocacy movement of people with mental disorders.
+It is a video work about the history and current activities of Bethel House.
 
 Dates: June 7, 2014 - June 22
 
-Location: Institut français du Japon - Tokyo
+Location: Institut français du Japon
 
 
 
 ＜"hope house" (Video Installation, 2011)＞
 
-Ceremony for the end of analog Television broadcasting in Japan.
-
-https://vimeo.com/408766189
-
-http://www.fujihata.jp/end_analog/index.html
+There is a hospice called hope house that takes care of the last days of those who have no relatives in Tokyo.
+It is a video work about a man's life of hope house, and ceremony for the end of analog television broadcasting in Japan.
 
 Dates: July 24, 2012
 
