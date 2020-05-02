@@ -19,7 +19,7 @@ googleAnalytics = ""
     viewMorePostLink     = "/works/"
 
 # Optional Params
-    categoriesByCount    = true
+    categoriesByCount    = false
     includeReadingTime   = true
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
