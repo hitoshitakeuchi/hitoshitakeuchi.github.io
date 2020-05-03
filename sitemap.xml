@@ -3,13 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hitoshitakeuchi.com/works/works/</loc>
+    <loc>http://hitoshitakeuchi.com/blog/works/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hitoshitakeuchi.com/profile/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hitoshitakeuchi.com/blog/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -30,12 +36,6 @@
   
   <url>
     <loc>http://hitoshitakeuchi.com/categories/works/</loc>
-    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://hitoshitakeuchi.com/works/</loc>
     <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
