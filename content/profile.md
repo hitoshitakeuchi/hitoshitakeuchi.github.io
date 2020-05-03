@@ -23,7 +23,7 @@ htakeuchi.info@gmail.com
 
 ‘19・Eureka, GALLERY WATER|Tokyo
 
-‘19・FUJISANTEN2.0,  SNARK/Sumitomo Mitsui Banking Corporation Earth Garden /Fukushima Mural Vision
+‘19・FUJISANTEN2.0, SNARK/Sumitomo Mitsui Banking Corporation Earth Garden /Fukushima Mural Vision
 
 ‘18・AI Art Gallery, NeurIPS Workshop on Machine Learning for Creativity and Design 2018|Montreal, Canada
 
@@ -47,6 +47,9 @@ htakeuchi.info@gmail.com
 
 ‘11・Good bye Analog TV, KINOHAUS|Tokyo　
 
+[Projects]
+
+‘20・ART RESEARCH ONLINE
 
 [Awards]
 
