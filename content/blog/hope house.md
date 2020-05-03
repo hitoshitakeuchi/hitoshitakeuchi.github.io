@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "WORKS"
+title = "hope house"
 type = "post"
 +++
 
