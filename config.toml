@@ -14,12 +14,12 @@ googleAnalytics = ""
     navbarTitle          = "Hitoshi Takeuchi's Site"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
-    socialAppearAtBottom = false
+    socialAppearAtBottom = true
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
 # Optional Params
-    categoriesByCount    = false
+    categoriesByCount    = true
     includeReadingTime   = true
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
@@ -60,7 +60,7 @@ googleAnalytics = ""
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 3
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
@@ -68,6 +68,12 @@ googleAnalytics = ""
     name = "Profile"
     url = "/profile"
     weight = 1
+
+[[menu.main]]
+    name = "Works"
+    url = "/blog"
+    #identifier = "fa fa-newspaper-o"
+    weight = 2
 
 
 # Insert your username and the icon will apear on the page as long as
