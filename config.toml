@@ -14,9 +14,9 @@ googleAnalytics = ""
     navbarTitle          = "Hitoshi Takeuchi's Site"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
-    socialAppearAtBottom = true
+    socialAppearAtBottom = false
     # set this to the section name if section is not post
-    viewMorePostLink     = "/works/"
+    viewMorePostLink     = "/blog/"
 
 # Optional Params
     categoriesByCount    = false
@@ -71,7 +71,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     name = "Works"
-    url = "/works"
+    url = "/blog"
     #identifier = "fa fa-newspaper-o"
     weight = 2
 
