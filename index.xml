@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hitoshi Takeuchi&#39;s Site</title>
+    <link>http://hitoshitakeuchi.com/</link>
+    <description>Recent content on Hitoshi Takeuchi&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hitoshitakeuchi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profile</title>
+      <link>http://hitoshitakeuchi.com/profile/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hitoshitakeuchi.com/profile/</guid>
+      <description>Media Artist
+Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts. I’m mostly interested in human perception and media aesthetics theory, and I create video works, interactive installations and paintings. In the unique conditions of new media technologies, I present a variety of works that critically redefines human sensory experience.
+[Contact]
+htakeuchi.info@gmail.com
+[Exhibition|Screening]
+‘19・BHVR, BLOCK HOUSE|Tokyo
+‘19・Eureka, GALLERY WATER|Tokyo
+‘19・FUJISANTEN2.0, SNARK/Sumitomo Mitsui Banking Corporation Earth Garden /Fukushima Mural Vision</description>
+    </item>
+    
+  </channel>
+</rss>
