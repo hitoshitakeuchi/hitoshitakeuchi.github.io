@@ -9,7 +9,7 @@ Media Artist
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts.
 I’m mostly interested in human perception and media aesthetics theory,
 and I create video works, interactive installations and paintings.
-In the unique conditions of new media technologies, I present a variety of works that critically redefines human sensory experience.
+In the unique conditions of media technologies, I present a variety of works that critically redefines human sensory experience and existence.
 
 
 [Contact]
@@ -50,6 +50,10 @@ htakeuchi.info@gmail.com
 [Projects]
 
 ‘20・ART RESEARCH ONLINE
+
+[Conversations]
+
+‘14・L'image est deja commencee?, DOMMUNE|Tokyo　
 
 [Awards]
 
