@@ -15,5 +15,5 @@ type = "post"
 
 ＜The Essay Film (Research Project, 2021)＞
 
-This is a research project about Essayfilm.
+This is a research project where artists and researchers introduce books and papers about essayfilm, and present their works.
 We will explore narrative techniques and develop new ways of telling stories.
