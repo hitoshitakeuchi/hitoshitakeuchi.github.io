@@ -51,6 +51,8 @@ htakeuchi.info@gmail.com
 
 ‘20・ART RESEARCH ONLINE
 
+‘21・The Essay Film
+
 [Conversations]
 
 ‘14・L'image est deja commencee?, DOMMUNE|Tokyo　
