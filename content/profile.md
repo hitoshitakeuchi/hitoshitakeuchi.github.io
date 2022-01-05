@@ -4,7 +4,7 @@ date = "2017-09-01"
 featured = ""
 +++
 
-Media Artist
+Artist, Programmer, Researcher
 
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts.
 I’m mostly interested in human perception and media aesthetics theory,
