@@ -57,6 +57,8 @@ htakeuchi.info@gmail.com
 
 ‘14・L'image est deja commencee?, DOMMUNE|Tokyo　
 
+‘22・Open Salon Events, ICC|Tokyo　
+
 [Awards]
 
 ‘14 ・Centre Pompidou Film festival Hors Pistes Tokyo
