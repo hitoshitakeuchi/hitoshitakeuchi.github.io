@@ -49,9 +49,9 @@ htakeuchi.info@gmail.com
 
 [Projects]
 
-‘20・ART RESEARCH ONLINE
-
 ‘21・The Essay Film
+
+‘20・ART RESEARCH ONLINE
 
 [Conversations]
 
