@@ -55,9 +55,9 @@ htakeuchi.info@gmail.com
 
 [Conversations]
 
-‘14・L'image est deja commencee?, DOMMUNE|Tokyo　
+‘22・Open Salon Events, ICC|Tokyo
 
-‘22・Open Salon Events, ICC|Tokyo　
+‘14・L'image est deja commencee?, DOMMUNE|Tokyo　　
 
 [Awards]
 
