@@ -49,7 +49,7 @@ htakeuchi.info@gmail.com
 
 [Projects]
 
-‘21・The Essay Film
+‘21・EoN (Excitation of Narratives)
 
 ‘20・ART RESEARCH ONLINE
 
