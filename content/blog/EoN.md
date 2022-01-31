@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-title = "The Essay Film"
+title = "EoN"
 type = "post"
 +++
 
