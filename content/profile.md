@@ -8,7 +8,7 @@ Artist, Programmer, Researcher
 
 Born 1985 in Tokyo, Japan. Bachelor of Intermedia Art, Tokyo University of the Arts.
 I’m mostly interested in human perception and media aesthetics theory,
-and I create video works, interactive installations and paintings.
+and I create video works and interactive installations.
 In the unique conditions of media technologies, I present a variety of works that critically redefines human sensory experience and existence.
 
 
@@ -18,6 +18,8 @@ htakeuchi.info@gmail.com
 
 
 [Exhibition|Screening]
+
+‘22・OPEN SITE 7, Tokyo Arts and Space|Tokyo
 
 ‘19・BHVR, BLOCK HOUSE|Tokyo
 
