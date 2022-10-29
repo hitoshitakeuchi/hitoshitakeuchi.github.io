@@ -16,6 +16,7 @@ type = "post"
 ＜“Journey of Self-care”(2022)＞
 
 Journey of Self-care, HD, 8min.39sec., 2022
+
 Fence Line Text, Journey of Self-care Installation ver, 2022
 
 In order to open up a perspective on self-care, I went to Okinawa and attempted to generate my own way of speaking by listening to the narratives of sculptors in Okinawa.
