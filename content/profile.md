@@ -59,7 +59,11 @@ htakeuchi.info@gmail.com
 
 ‘22・Open Salon Events, ICC|Tokyo
 
-‘14・L'image est deja commencee?, DOMMUNE|Tokyo　　
+‘14・L'image est deja commencee?, DOMMUNE|Tokyo
+
+[Writings]　　
+
+‘23・LOOP:Film and new media studies Vol.13
 
 [Awards]
 
