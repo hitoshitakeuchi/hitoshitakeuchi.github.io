@@ -35,8 +35,6 @@ htakeuchi.info@gmail.com
 
 ‘16・Unity VR EXPO AKIBA, AKIBA_SQUARE|Tokyo
 
-‘16・Food and Art vol.2, FabCafe|Tokyo
-
 ‘14・Centre Pompidou Film festival Hors Pistes Tokyo, Institut français du Japon|Tokyo
 
 ‘14・Materializing ExhibitionⅡ, THE CHINRETSUKAN GALLERY|Tokyo
