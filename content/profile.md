@@ -51,6 +51,8 @@ htakeuchi.info@gmail.com
 
 [Projects]
 
+‘23・AI ART RESEARCH
+
 ‘21・EoN (Excitation of Narratives)
 
 ‘20・ART RESEARCH ONLINE
