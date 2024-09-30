@@ -2,6 +2,7 @@ baseURL = "http://hitoshitakeuchi.com/"
 canonifyurls = true
 languageCode = "ja-JP"
 title = "Hitoshi Takeuchi's Site"
+copyright = "© Hitoshi Takeuchi"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -13,14 +14,14 @@ googleAnalytics = ""
     # This will appear on the top left of the navigation bar
     navbarTitle          = "Hitoshi Takeuchi's Site"
     # Social media buttons that appear on the sidebar
-    socialAppearAtTop    = true
-    socialAppearAtBottom = true
+    socialAppearAtTop    = false
+    socialAppearAtBottom = false
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
 # Optional Params
-    categoriesByCount    = true
-    includeReadingTime   = true
+    categoriesByCount    = false
+    includeReadingTime   = false
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
