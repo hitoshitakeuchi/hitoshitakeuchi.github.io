@@ -19,6 +19,8 @@ htakeuchi.info@gmail.com
 
 [Exhibition|Screening]
 
+‘25・Experimental film culture vol.6 in Japan, Space & Cafe ポレポレ坐|Tokyo
+
 ‘22・OPEN SITE 7, Tokyo Arts and Space|Tokyo
 
 ‘19・BHVR, BLOCK HOUSE|Tokyo
